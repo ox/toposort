@@ -1,0 +1,16 @@
+{
+  "name": "toposort",
+  "version": "1.0.0",
+  "description": "A simple topological sorting package using Kahn's algorithm to sort a Directed Acyclic Graph.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "keywords": ["sort", "topological", "graph", "kahn"],
+  "author": "Artem Titoulenko <artem.titoulenko@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  }
+}
